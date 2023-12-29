@@ -4,7 +4,7 @@
 This prototype algorithm intends to aid in drowsy driving detection via a camera to capture live-time feed and relies on the usage of a main script and secondary data file. 
 
 ## Operation
-The program operates by capturing video frames through a webcam and implementing facial recognition to either identify an existing user or create a new user profile. The facial recognition part of this program is completed using the concept Histogram of Oriented Gradients (HOG) descriptors. Once the program has started, constant eye detection and face monitoring is used to ensure the user is in the proper state. An alert system will be triggered within a short period if the user does not seem attentive.  
+The program operates by capturing video frames through a webcam and implementing facial recognition to either identify an existing user or create a new user profile. The facial recognition part of this program is completed using the concept Histogram of Oriented Gradients (HOG) descriptors. Once the program has started, constant eye detection and face monitoring is used to ensure the user is in the proper state. An alert system will be triggered if the user does not seem attentive for even a short period.  
 
 ## Features 
 - Live camera feed and real-time analysis 
