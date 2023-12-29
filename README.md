@@ -21,10 +21,7 @@ The program operates by capturing video frames through a webcam and implementing
 - Tkinter
 
 ## Installation
-1. Install the requried dependencies above
-   Ex: "pip install opencv-python numpy"
-2. Run the script
-   Ex: "python AlertDrive.py"
+Ensure that you have obtained the main script, requirements.txt, and the data file locally on your machine. Make sure to install all the necessary requirmements as listed in the requirements.txt file via "pip install -r requirements.txt"
 
 ## Instructions
 The program can be controlled through a keyboard interface. Press 's' to start the alert system once the facial recognition and setup has been completed. Press 'x' to exit the program. 
